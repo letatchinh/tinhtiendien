@@ -1,0 +1,13 @@
+.mainunit{
+    position: relative;
+}
+.unit{
+    position: absolute;
+    right: -60px;
+    color: red;
+}
+.valit{
+    display: none;
+    text-align: center;
+     color: red;
+}
